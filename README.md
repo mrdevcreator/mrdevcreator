@@ -7,6 +7,7 @@
 <h2>Skills:</h2>
 <div class="skills">
   <p>
+    Python <img alt="" src="https://img.icons8.com/color/24/000000/python.png"/>
     Next.js <img alt="" src="https://img.icons8.com/color/24/000000/nextjs.png"/>
     tRPC <img alt="" src="https://images.app.goo.gl/6B3huyWaZFhkanra9"/>
     Node.js <img alt="" src="https://img.icons8.com/color/24/000000/nodejs.png"/>
@@ -15,7 +16,6 @@
     Material UI <img alt="" src="https://img.icons8.com/color/24/000000/material-ui.png"/>
     Prisma <img alt="" width="24px" src="https://skillicons.dev/icons?i=prisma"/>
     Express.js <img alt="" src="https://img.icons8.com/color/24/000000/express.png"/>
-    Python <img alt="" src="https://img.icons8.com/color/24/000000/python.png"/>
   </p>
 </div>
 <h2>Currently, I'm learning:</h2>
