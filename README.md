@@ -1,3 +1,4 @@
+<img alt src="https://github.com/itsroshan137/LED_Blinking_IOT/assets/128353612/24a4a441-0d77-4b94-bfea-3da3f5de5b65"/>
 <h1 align="center">
     <img alt="" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Loknath!;" />
 </h1>
